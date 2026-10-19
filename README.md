@@ -18,6 +18,13 @@ The project emphasizes transparent behavior, documented system boundaries, caref
 
 **Under development.** Individual features and integrations may have different readiness levels. This page does not confirm that earning, redemption, real-money transactions, or payouts are currently available. Such functionality must not be assumed live unless it has been explicitly enabled and verified.
 
+## Contact
+
+For questions, collaboration, or project inquiries, contact me here:
+
+- **Email:** [philippe_beauchamp@hotmail.com](mailto:philippe_beauchamp@hotmail.com)
+- **Facebook:** [facebook.com/jackoanon](https://www.facebook.com/jackoanon)
+
 ## Scope
 
 This is a high-level public project overview. It does not publish private implementation details, source code, credentials, or deployment instructions.
